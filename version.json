@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "buildNumber": 5,
+  "buildNumber": 6,
   "apkUrl": "https://github.com/5upremo/beezy-app-releases/releases/latest/download/app-release.apk",
   "releaseNotes": "Initial Shorebird-enabled release with icon tree-shaking optimizations.",
   "isMandatory": true
