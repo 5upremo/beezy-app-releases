@@ -1,7 +1,7 @@
 {
   "version": "1.1.0",
-  "buildNumber": 7,
+  "buildNumber": 8,
   "apkUrl": "https://github.com/5upremo/beezy-app-releases/releases/latest/download/app-release.apk",
-  "releaseNotes": "Optimized Supabase sync: incremental sync with timestamps, parallel table fetches, retry-skip for outbound queue, and periodic background auto-sync.",
+  "releaseNotes": "Emergency fix: Resolves Supabase credentials and initialization error. Added defensive initialization try-catch to prevent future update lockouts.",
   "isMandatory": true
 }
